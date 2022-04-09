@@ -22,3 +22,6 @@ coverage
 waiter.config.js
 build/bin/algolia-key.js
 .envrc
+
+.git_uipps
+.git_ElemeFE_dev
